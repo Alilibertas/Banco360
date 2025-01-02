@@ -19,3 +19,6 @@ Desenvolvimento das práticas utilizando as ferramentas de IA estudadas no curso
 ## 💭 Reflexão (Opcional)
 A IA não é apenas uma ferramenta de automação, mas um caminho para fortalecer o relacionamento entre bancos e clientes, trazendo mais empatia, eficiência e personalização ao setor bancário.
 ```
+
+
+
