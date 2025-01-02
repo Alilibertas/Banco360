@@ -6,7 +6,7 @@ O projeto "Banco 360" utiliza tecnologias de IA generativa para transformar a ex
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT: Para criação de assistentes virtuais e roteiros de conteúdo.
-FlexChio: Para criação do vídeo
+FlexChip: Para criação do vídeo
 
 ## 🧐 Processo de Criação
 Identificação do Problema:
