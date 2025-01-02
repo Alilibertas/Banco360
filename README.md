@@ -16,8 +16,4 @@ Levantamento de processos internos que podem ser otimizados.
 ## 🚀 Resultados
 Desenvolvimento das práticas utilizando as ferramentas de IA estudadas no curso.
 
-## 💭 Reflexão (Opcional)
-A IA é um caminho para fortalecer a força humana de trabalho.
-
-
 ```
