@@ -17,7 +17,7 @@ Levantamento de processos internos que podem ser otimizados.
 Desenvolvimento das práticas utilizando as ferramentas de IA estudadas no curso.
 
 ## 💭 Reflexão (Opcional)
-A IA não é um caminho para fortalecer a força humana de trabalho.
+A IA é um caminho para fortalecer a força humana de trabalho.
 
 
 ```
